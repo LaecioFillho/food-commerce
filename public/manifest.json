@@ -1,6 +1,6 @@
 {
-  "short_name": "Aplicação React",
-  "name": "Templade Dev Samurai de aplicação React",
+  "short_name": "FoodCommerce",
+  "name": "App de pedidos de comida online pratico",
   "icons": [
     {
       "src": "favicon.ico",
