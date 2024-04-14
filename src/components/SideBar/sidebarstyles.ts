@@ -10,7 +10,7 @@ export const Container = styled.aside<ContainerProps>`
     return isMenuOpen ? css` width: 16.3rem;` : css` width: 7.75rem;`
   }}
 
-  background-color: ${({theme})=> theme.colors.red};
+  background-color: ${({theme})=> theme.colors.gray700};
   padding: 2rem 0;
   overflow: hidden;
   display: flex;

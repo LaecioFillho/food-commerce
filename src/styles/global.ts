@@ -19,7 +19,7 @@ html{
 }
 
 body{
-  background: ${({theme}) => theme.colors.gray900};
+  background: ${({theme}) => theme.colors.gray800};
   -webkit-font-smoothing: antialiased;
   color: ${({theme}) => theme.colors.white};
 }
