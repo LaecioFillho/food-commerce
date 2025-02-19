@@ -1,0 +1,93 @@
+{
+  "burgers":[
+    {
+      "id": 1,
+      "snack": "burguer",
+      "name": "Mega",
+      "description": "O artesanal mais lindo e saboroso que você irá ver!",
+      "price": 10.00,
+      "image": "https://images.pexels.com/photos/15141034/pexels-photo-15141034/free-photo-of-americano-americana-comida-rapida-fast-food.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "snack": "burguer",
+      "name": "Burgão",
+      "description": "O artesanal mais lindo e saboroso que você irá ver!",
+      "price": 10.00,
+      "image": "https://i.imgur.com/B4J04AJ.jpg"
+    },
+    {
+      "id": 3,
+      "snack": "burguer",
+      "name": "Duplo",
+      "description": "O artesanal mais lindo e saboroso que você irá ver!",
+      "price": 23.00,
+      "image": "https://images.pexels.com/photos/12557799/pexels-photo-12557799.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+  ],
+
+  "pizzas":[
+    {
+      "id": 1,
+      "snack": "pizza",
+      "name": "Calabresa c/ Queijo",
+      "description": "A melhor pizza de todos os tempos, super deliciosa!",
+      "price": 56.00,
+      "image": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg"
+    },
+    {
+      "id": 2,
+      "snack": "pizza",
+      "name": "Moda da Casa",
+      "description": "A melhor pizza de todos os tempos, super deliciosa!",
+      "price": 63.00,
+      "image": "https://images.pexels.com/photos/5903104/pexels-photo-5903104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 3,
+      "snack": "pizza",
+      "name": "Portuguesa",
+      "description": "A melhor pizza de todos os tempos, super deliciosa!",
+      "price": 45.00,
+      "image": "https://images.pexels.com/photos/5903450/pexels-photo-5903450.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+  ],
+
+  "Drinks":[
+    {
+      "id": 1,
+      "snack": "drinks",
+      "name": "Coca-Cola",
+      "description": "A bebida mais refrescante de todos os tempos, e a melhor!",
+      "price": 12.00,
+      "image": "https://images.pexels.com/photos/50593/coca-cola-cold-drink-soft-drink-coke-50593.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+  ],
+
+  "ice-creams":[
+    {
+      "id": 1,
+      "snack": "ice-creams",
+      "name": "Sorvete Baunilha",
+      "description": "O artesanal mais lindo e saboroso que você irá ver!",
+      "price": 16.00,
+      "image": "https://images.pexels.com/photos/30766471/pexels-photo-30766471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 2,
+      "snack": "ice-creams",
+      "name": "Sorvete Chocolate",
+      "description": "O artesanal mais lindo e saboroso que você irá ver!",
+      "price": 14.00,
+      "image": "https://images.pexels.com/photos/29851694/pexels-photo-29851694/free-photo-of-sorvete-de-chocolate-decadente-com-brownies.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 3,
+      "snack": "ice-creams",
+      "name": "Sorvete Maracujá",
+      "description": "O artesanal mais lindo e saboroso que você irá ver!",
+      "price": 19.00,
+      "image": "https://images.pexels.com/photos/30648974/pexels-photo-30648974/free-photo-of-sundae-de-sorvete-de-baunilha-em-fundo-vermelho.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+  ]
+}
