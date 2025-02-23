@@ -3,9 +3,10 @@ import { Head } from "../../../components/Head";
 import { SnackTitle } from "../../../components/SnackTitle";
 import { getDrinks, getIceCreams } from "../../../services/api";
 import { Snacks } from "../../../components/Snacks";
+import { SnackData } from "../../../interfaces/SnackDatas";
 
 export default function Drinks(){
-  const [drinks, setDrinks] = useState([])
+  const [drinks, setDrinks] = useState<SnackData[]>([])
 
       useEffect(() => {
         ;(async () => {

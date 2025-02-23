@@ -1,10 +1,11 @@
 import { currencyFormat } from "../../helpers/currencyFormat";
+import { SnackData } from "../../interfaces/SnackDatas";
 import { SkeletonSnacks } from "../SkeletonSnacks";
 import { Container } from "./styles"
 import { FaCartPlus } from "react-icons/fa";
 
 interface SnacksProps {
-  snacks: any[]
+  snacks: SnackData[]
 }
 
 export function Snacks({snacks}: SnacksProps){

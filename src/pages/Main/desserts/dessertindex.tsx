@@ -3,9 +3,10 @@ import { Head } from "../../../components/Head";
 import { SnackTitle } from "../../../components/SnackTitle";
 import { getIceCreams } from "../../../services/api";
 import { Snacks } from "../../../components/Snacks";
+import { SnackData } from "../../../interfaces/SnackDatas";
 
 export default function Sobremesas(){
-  const [desserts, setDesserts] = useState([])
+  const [desserts, setDesserts] = useState<SnackData[]>([])
 
     useEffect(() => {
       ;(async () => {
